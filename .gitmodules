@@ -1,0 +1,6 @@
+[submodule "nzpBM"]
+	path = nzpBM
+	url = git://github.com/NuffZetPand0ra/nzpBM.git
+[submodule "nzpDB"]
+	path = nzpDB
+	url = git://github.com/NuffZetPand0ra/nzpDB.git
